@@ -1,0 +1,6 @@
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\bin\Debug\SETExecution.exe.config
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\obj\Debug\SETExecution.csprojResolveAssemblyReference.cache
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\bin\Debug\SETExecution.exe
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\bin\Debug\SETExecution.pdb
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\obj\Debug\SETExecution.exe
+c:\users\lauren\documents\visual studio 2015\Projects\SETExecution\SETExecution\obj\Debug\SETExecution.pdb
